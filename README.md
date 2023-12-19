@@ -14,10 +14,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-#### Deskop
+#### Deskop 1920px
 ![](./screenshots/deskop-screenshot.jpg)
 
-#### Mobile
+#### Tablet 768px
+![](./screenshots/tablet-screenshot.jpg)
+
+#### Mobile 375px
 ![](./screenshots/mobile-screenshot.jpg)
 
 ## My process
