@@ -23,6 +23,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 #### Mobile 375px
 ![](./screenshots/mobile-screenshot.jpg)
 
+### Link
+
+- Live Site URL: [Github Pages](https://sebastian-agrano.github.io/frontend-mentor-qr-code-component/)
+
 ## My process
 
 ### Built with
